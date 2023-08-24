@@ -9,6 +9,7 @@ There are 7 major components of this website
 5. Testimonial
 6. Conact
 7. footer
+
 All these 7 components of jsx are combined in final App.js file
 I have used different react libraries for using logos,icons etc.
  
