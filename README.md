@@ -7,7 +7,7 @@ There are 7 major components of this website
 3. About
 4. work
 5. Testimonial
-6. Conact
+6. Contact
 7. footer
 
 All these 7 components of jsx are combined in final App.js file
